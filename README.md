@@ -1,4 +1,4 @@
-# Blockless Hello World Example
+# Blockless Stdin Example
 
 This is a sample `Blockless` application. To use
 
