@@ -1,4 +1,9 @@
 # Blockless Hello World Example
 
-This is a simple application that when deployed will repeat back the string given.
-# blockless-stdin-tutorial
+This is a sample `Blockless` application. To use
+
+- clone repository
+- run `npm install`
+- run `bls function build && bls function invoke`
+
+Get the `bls` command line utility here: https://github.com/blocklessnetwork/cli
